@@ -82,6 +82,6 @@ pip install tensorflow numpy matplotlib
 Running the Code:
 
 Save the source code in a file.
-python entropy_classifier.py
+python entropy_classifier.ipynb
 
 The script will load the MNIST dataset, train the classifier, plot the training accuracy, and display sample predictions.
