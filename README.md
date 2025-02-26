@@ -1,4 +1,4 @@
-#Entropy-Based Classifier for Even/Odd MNIST Digits
+# Entropy-Based Classifier for Even/Odd MNIST Digits
 
 Overview
 
@@ -40,12 +40,17 @@ Accuracy:
   Training dynamics show steady improvement with a dynamic learning rate schedule.  
   
 Execution Instructions
+
 Dependencies:
 
 Python 
+
 TensorFlow 2.17.1
+
 NumPy 1.26.4
+
 Matplotlib 3.7.5
+
 Installation:
 
 Install the dependencies using pip:
